@@ -1,0 +1,11 @@
+
+
+Power Automate
+
+copy and paste steps 
+- copy to my clipboard 
+- add action, my clipboard
+
+instead of frequent copy paste, child flows (modules)
+run child flow  -- any solutions in your env
+
